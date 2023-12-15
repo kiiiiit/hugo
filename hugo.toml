@@ -1,19 +1,25 @@
 baseURL = "https://dedov.ws/"
 languageCode = "ru"
 title = "My HUGO Website"
-languageName = 'ru'
+languageName = 'Russian'
 defaultContentLanguage = "ru"
 paginate = 100 #frontpage pagination
 enableGitInfo = true
 
-theme = "PaperMod"
-#theme = "ananke"
-#theme = "monochrome"
+# theme = "PaperMod"
+# theme = "ananke"
+# theme = "monochrome"
+theme = "LoveIt"
+
+# Author config
+[author]
+  name = "Sergey Dedov"
+  email = "sergey@dedov.ws"
+  link = "https://dedov.ws"
 
 [params]
-    author = "Sergey Dedov"
     description = "My personal web site"
-    navbar_title = "Okulus Dev" # default: site's `title`
+    navbar_title = "Sergey DEDOV" # default: site's `title`
     footer = "Copyright © 2023 by OkulusDev" # default: None
     enable_toc = true # default: true
     enable_collapsible_toc = true # default: false
