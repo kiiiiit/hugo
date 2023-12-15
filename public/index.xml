@@ -33,10 +33,10 @@
     
     <item>
       <title>My 1st post</title>
-      <link>https://hugo.dedov.ws/posts/test/cname/</link>
+      <link>https://hugo.dedov.ws/post/test/cname/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://hugo.dedov.ws/posts/test/cname/</guid>
+      <guid>https://hugo.dedov.ws/post/test/cname/</guid>
       <description>Desc Text.</description>
     </item>
     
