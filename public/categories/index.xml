@@ -5,6 +5,25 @@
     <link>https://dedov.ws/categories/</link>
     <description>Recent content in Categories on My HUGO Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://dedov.ws/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <lastBuildDate>Wed, 06 Dec 2023 22:43:16 +0700</lastBuildDate><atom:link href="https://dedov.ws/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>блог</title>
+      <link>https://dedov.ws/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <pubDate>Wed, 06 Dec 2023 22:43:16 +0700</pubDate>
+      
+      <guid>https://dedov.ws/categories/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>приветствие</title>
+      <link>https://dedov.ws/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</link>
+      <pubDate>Wed, 06 Dec 2023 22:43:16 +0700</pubDate>
+      
+      <guid>https://dedov.ws/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
