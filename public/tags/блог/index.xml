@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>блог on My New Hugo Site</title>
+    <link>https://example.org/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    <description>Recent content in блог on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2023 22:43:16 +0700</lastBuildDate>
+    <atom:link href="https://example.org/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Привет, хабр!</title>
+      <link>https://example.org/post/greeting/</link>
+      <pubDate>Wed, 06 Dec 2023 22:43:16 +0700</pubDate>
+      <guid>https://example.org/post/greeting/</guid>
+      <description>Привет, хабр! Как дела, хабр?&#xA;Пока, хабр? </description>
+    </item>
+  </channel>
+</rss>
