@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Приветствую на моей страничке \U0001F44B"
-    Content: Добро пожаловать!
+    Content: Добро пожаловать! 2b o not 2b
 
   socialIcons:
     - name: phone
