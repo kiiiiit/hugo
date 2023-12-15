@@ -19,10 +19,10 @@ params:
   title: Sergey DEDOV Personal site
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Sergey DEDOV
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2/01/2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -36,10 +36,10 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Сергей ДЕДОВ"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,16 +73,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Приветствую на моей страничке \U0001F44B"
+    Content: Добро пожаловать!
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: phone
+      url: "tel:+79999000000"
+    - name: email
+      url: "mailto:sergey@dedov.ws"
+    - name: facebook
+      url: "https://www.facebook.com/Dedov.Sergey/"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/dedovsergey/"
 
   analytics:
     google:
@@ -93,12 +95,12 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/kiiiiit/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -115,11 +117,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Категории
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Тэги
       url: /tags/
       weight: 20
     - identifier: example
