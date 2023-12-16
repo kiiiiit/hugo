@@ -1,6 +1,5 @@
 #!/bin/bash
 # https://github.com/cyberspacedk/Git-commands
-
 # Скрипт для обновления локального репозитория Git с помощью команд git pull, git add, git commit и git push.
 
 # Получение последних изменений из удаленного репозитория
