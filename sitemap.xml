@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://hugo.dedov.ws/</loc>
-    <lastmod>2023-12-15T15:05:50+03:00</lastmod>
-  </url><url>
-    <loc>https://hugo.dedov.ws/post/</loc>
-    <lastmod>2023-12-15T15:05:50+03:00</lastmod>
-  </url><url>
-    <loc>https://hugo.dedov.ws/post/test/</loc>
-    <lastmod>2023-12-15T15:05:50+03:00</lastmod>
-  </url><url>
-    <loc>https://hugo.dedov.ws/categories/</loc>
-  </url><url>
-    <loc>https://hugo.dedov.ws/tags/</loc>
-  </url><url>
-    <loc>https://hugo.dedov.ws/post/hugowgithub/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://hugo.dedov.ws/ru/sitemap.xml</loc>
+    
+      <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hugo.dedov.ws/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
