@@ -4,29 +4,9 @@
   <url>
     <loc>https://hugo.dedov.ws/ru/</loc>
     <lastmod>2023-12-16T22:16:12+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://hugo.dedov.ws/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-Ru"
-                href="https://hugo.dedov.ws/ru/"
-                />
   </url><url>
     <loc>https://hugo.dedov.ws/ru/categories/</loc>
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://hugo.dedov.ws/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-Ru"
-                href="https://hugo.dedov.ws/ru/categories/"
-                />
   </url><url>
     <loc>https://hugo.dedov.ws/ru/tags/github/</loc>
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
@@ -36,29 +16,9 @@
   </url><url>
     <loc>https://hugo.dedov.ws/ru/posts/</loc>
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://hugo.dedov.ws/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-Ru"
-                href="https://hugo.dedov.ws/ru/posts/"
-                />
   </url><url>
     <loc>https://hugo.dedov.ws/ru/tags/</loc>
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://hugo.dedov.ws/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-Ru"
-                href="https://hugo.dedov.ws/ru/tags/"
-                />
   </url><url>
     <loc>https://hugo.dedov.ws/ru/tags/web/</loc>
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
@@ -70,15 +30,5 @@
     <lastmod>2023-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hugo.dedov.ws/ru/posts/m/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://hugo.dedov.ws/en/posts/m/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-Ru"
-                href="https://hugo.dedov.ws/ru/posts/m/posts/"
-                />
   </url>
 </urlset>
