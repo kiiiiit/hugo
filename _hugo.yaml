@@ -1,0 +1,218 @@
+baseURL: "https://hugo.dedov.ws/"
+# paginate: 5
+theme: PaperMod
+
+languages:
+  ru:
+    title: Сергей ДЕДОВ
+    # contentDir: content/post/ru
+    disabled: false
+    languageCode: ru-Ru
+    languageName: Русский
+    weight: 1
+    sectionPagesMenu: main # включать для кнопки POSTS
+    menus:
+    params:
+      author: Сергей ДЕДОВ
+      profileMode:
+        enabled: true # needs to be explicitly set
+        title: Сергей ДЕДОВ
+        subtitle: Взращивая бизнес
+        imageUrl: ../assets/media/icon.png
+        imageWidth: 200
+        imageHeight: 200
+        imageTitle: my image
+        buttons:
+          - name: Блог
+            url: posts
+          - name: Темы
+            url: tags
+### English
+  en:
+    title: Sergey DEDOV
+    # contentDir: content/post/en
+    disabled: true
+    languageCode: en-US
+    languageName: English
+    weight: 2
+    params:
+      author: Sergey DEDOV
+      profileMode:
+        enabled: true # needs to be explicitly set
+        title: Sergey DEDOV
+        subtitle: Growing a business
+        imageUrl: "../assets/media/icon.png"
+        imageWidth: 200
+        imageHeight: 200
+        imageTitle: my image
+        buttons:
+          - name: Posts
+            url: posts
+          - name: Tags
+            url: tags
+
+###
+### ОБЩИЕ НАСТРОЙКИ
+###
+
+defaultContentLanguage: ru
+# defaultContentLanguageInSubdir: true
+
+diagram: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# canonifyURLs: true
+# relativeURLs: true
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  footer: Copyright © 2000-2023 by [Sergey DEDOV](https://dedov.ws)
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Sergey DEDOV Personal site
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  # copyright: \@ Sergey DEDOV, 2023
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2/01/2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    favicon: true
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: assets/media/icon.png
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Приветствую на моей страничке \U0001F44B"
+    Content: Добро пожаловать!!!
+
+  socialIcons:
+    - name: phone
+      url: "tel:+79999000000"
+    - name: email
+      url: "mailto:sergey@dedov.ws"
+    - name: facebook
+      url: "https://www.facebook.com/Dedov.Sergey/"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/dedovsergey/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://hugo.dedov.ws/content"
+  #   Text: "Внести изменения" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # lineAnchors:
+    codeFences: true
+    guessSyntax: true
+    # lineNos: true
+    # lineNoStart: 1
+    style: monokai
+    hl_Lines:
+    lineNumbersInTable: true
+    noHl: false
+    tabWidth: 4
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: false
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: false
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+# permalinks:
+#   page:
+#     posts: /articles/:year/:month/:slug/
+#     tutorials: /training/:slug/
+#   section:
+#     posts: /articles/
+#     tutorials: /training/
+
+# Местоположение контента, шаблонов и т. д.
+# contentDir: content
+# layoutDir: layouts
+# staticDir:
+#   - static
+#   - static/images
+
+# services:
+#   disqus:
+#     shortname: SergeyDedov
