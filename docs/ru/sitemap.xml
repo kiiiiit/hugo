@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hugo.dedov.ws/</loc>
+    <lastmod>2023-12-16T22:16:12+03:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/categories/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/tags/github/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/tags/hugo/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/posts/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/tags/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/tags/web/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/posts/github/h2git/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/categories/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo.dedov.ws/series/</loc>
+  </url><url>
+    <loc>https://hugo.dedov.ws/posts/m/posts/</loc>
+  </url>
+</urlset>
