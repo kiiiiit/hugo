@@ -57,7 +57,7 @@ git add . # добавить все файлы
 git commit -m "Initial commit" # первый коммит
 
 echo "Установка темы"
-git submodule add -f--depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod  # установка темы
+git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod  # установка темы
 git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
 
 mv hugo.toml hugo.toml.bak
@@ -155,7 +155,7 @@ hugo-gallery static/images/welding-photos welding "Photos of my insane welding s
 
 ## Настройка сервера HUGO через файл `hugo.yaml`
 
-```bash
+```yaml
 cat > hugo.yaml << EOF # Создание файла hugo.yaml
 
 baseURL: "https://hugo.dedov.ws/"
@@ -393,6 +393,3 @@ Hugo не всегда бывает удобным, а его возможнос
 Плагин для WordPress, который позволяет одним кликом преобразовать все записи, страницы, таксономии, метаданные и настройки в формат Markdown и YAML, которые затем можно использовать в Hugo.
 
 **Примечание:** Если у вас возникли проблемы с использованием этого плагина, попробуйте экспортировать свой сайт для [Jekyll](https://wordpress.org/plugins/jekyll-exporter/) и использовать встроенный конвертер Jekyll в Hugo.
-
-
-
