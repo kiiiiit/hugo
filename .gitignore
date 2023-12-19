@@ -1,3 +1,7 @@
-
-themes/PaperMod
-themes/PaperMod
+archetypes
+assets
+static
+content
+config
+themes/*
+./*

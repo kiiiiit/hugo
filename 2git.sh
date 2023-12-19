@@ -14,7 +14,8 @@ echo ""
 echo "Коммитим изменения в $(pwd)"
 hugo -D
 
-cd public
+# cd public
+cd docs
 
 echo ""
 echo ""
