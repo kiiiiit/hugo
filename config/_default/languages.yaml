@@ -24,7 +24,7 @@ ru:
 en:
   title: Sergey DEDOV
   # contentDir: content/post/en
-  disabled: false
+  disabled: true
   languageCode: en-US
   languageName: English
   weight: 2

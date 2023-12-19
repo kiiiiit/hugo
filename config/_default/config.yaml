@@ -21,6 +21,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+pygmentsUseClasses: true
+
 taxonomies:
   category: categories
   tag: tags
@@ -34,6 +36,7 @@ taxonomies:
 #     tutorials: /training/
 
 # Местоположение контента, шаблонов и т. д.
+publicDir: docs
 # contentDir: content
 # layoutDir: layouts
 # staticDir:
