@@ -1,6 +1,6 @@
 baseURL: "https://hugo.dedov.ws/"
 # paginate: 5
-# theme: PaperMod
+theme: PaperMod
 
 languageCode: ru
 defaultContentLanguage: ru
