@@ -12,7 +12,8 @@ fi
 echo ""
 echo ""
 echo "Коммитим изменения в $(pwd)"
-hugo -D
+# hugo -D
+hugo
 
 # cd public
 cd docs
