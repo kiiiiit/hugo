@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"up",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/s.dedov/Sites/hugo"
+	],
+	"file_history":
+	[
+		"/Users/s.dedov/Sites/hugo/hugo.yaml",
+		"/Users/s.dedov/Sites/hugo/content/posts/test/cname.md",
+		"/Users/s.dedov/Sites/hugo/hugo.toml",
+		"/Users/s.dedov/Sites/hugo/content/post/ex.md",
+		"/Users/s.dedov/Sites/hugo/ex_hugo",
+		"/Users/s.dedov/Sites/hugo/2git.sh",
+		"/Users/s.dedov/Sites/hugo/content/en/about/index.md",
+		"/Users/s.dedov/Sites/hugo/content/en/_index.md",
+		"/Users/s.dedov/Sites/hugo/content/en/contact.md",
+		"/Users/s.dedov/Sites/hugo/content/posts/cool-post/cool-post.ru.md",
+		"/Users/s.dedov/Sites/hugo/themes/ananke/theme.toml",
+		"/Users/s.dedov/Sites/hugo/content/posts/cool-post/cool-post.md",
+		"/Users/s.dedov/Sites/hugo/content/cool-post.md",
+		"/Users/s.dedov/Sites/hugo/themes/PaperMod/theme.toml",
+		"/Users/s.dedov/Downloads/cpp-runner_1.sh",
+		"/Users/s.dedov/Downloads/2020.m3u",
+		"/Users/s.dedov/Downloads/LV_ECA29D1C95.conf",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/20 - Области/Работа/Oversea/Sergey B. Dedov (1 page).md",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/20 - Области/Работа/Oversea/CV_.md",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/00 - Входящие/Покров/Презентации/Концепция комплексного развития города Покров",
+		"/Volumes/Downloads/config.sample.php",
+		"/Volumes/Downloads/config.php",
+		"/Users/s.dedov/Downloads/moby_dick.bike",
+		"/Users/s.dedov/Downloads/moby_dick.md",
+		"/Users/s.dedov/Downloads/Рюкзак/rename.sh",
+		"/Users/s.dedov/Downloads/Soft/JetBrains PyCharm 2023.2.5/JetBrains PyCharm 2023.2.5 ARM [SN]/JetBrains PyCharm 2023.2.5 ARM [SN]/READ.rtf",
+		"/Users/s.dedov/Downloads/Soft/JetBrains PyCharm 2023.2.5/JetBrains PyCharm 2023.5 Intel [SN]/JetBrains PyCharm 2023.5 Intel [SN]/README.md",
+		"/Users/s.dedov/Downloads/Soft/JetBrains PyCharm 2023.2.5/JetBrains PyCharm 2023.5 Intel [SN]/JetBrains PyCharm 2023.5 Intel [SN]/READ.rtf",
+		"/Users/s.dedov/Downloads/План работ по экспорту.csv",
+		"/Users/s.dedov/Downloads/OmniGraffle.Pro_7.22.4_macOS/sn.txt",
+		"/Users/s.dedov/Downloads/OmniGraffle_7_20_SN.txt",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/SD.css",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/20 - Области/Работа/Разное/Резюме Дедов СБ.txt",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/00 - Входящие/САТ Кухонное оборудование/Требования к кофе.md",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/dracula.css",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/github.css",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/academic.css",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/border.css",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/_assets/styles/index.html",
+		"/Users/s.dedov/Library/CloudStorage/Dropbox/20 - Области/Образование/DBA/Кандидатская/SD-disser/Dissertation/md/Вступление.md",
+		"/private/tmp/tnt25946/mount/Extra/Sublime Text Lic.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
