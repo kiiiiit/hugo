@@ -36,7 +36,7 @@ taxonomies:
 #     tutorials: /training/
 
 # Местоположение контента, шаблонов и т. д.
-publishdir: docs
+# publishdir: docs
 # contentDir: content
 # layoutDir: layouts
 # staticDir:
