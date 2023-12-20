@@ -3,13 +3,17 @@ main:
     name: Домой
     pageRef: /
     weight: 1
+  - identifier: collab
+    name: Сотрудничество
+    pageRef: /collab
+    weight: 3
   - identifier: posts
     name: Новости
     pageRef: /posts
     weight: 2
   - identifier: categories
-    name: Категории
-    pageRef: /categories
+    name: Статьи
+    pageRef: /categories/статья/
     weight: 10
   - identifier: tags
     name: Темы
