@@ -18,10 +18,10 @@ categories:
 
 ## Подробнее про компетенции:
 
-* [Выбор и оформление земельного участка](/posts/collab/land);
-* [Проектирование](/posts/collab/designing);
-* [Управление проектами в строительстве (project management)](https://dedov.ws/upravlenie-proektami-v-stroitelstve);
-* [Эксплуатация (становление собственной или управление аутсорсинговыми службами);](https://dedov.ws/ekspluatacziya-kommercheskoj-nedvizhimosti)
+* [**Управление проектами** в строительстве (project management)](/posts/collab/project-management/);
+* [**Эксплуатация** (становление собственной или управление аутсорсинговыми службами)](/posts/collab/facility-management/);
+* [**Проектирование**](/posts/collab/designing);
+* [Выбор и оформление **земельного участка**](/posts/collab/land);
 * [Бюджетирование и финансовое моделирование (OPEX/CAPEX)](https://dedov.ws/byudzhetirovanie-i-finansovoe-modelirovanie-opex-capex);
 * [Коммерциализация (собственные брокеры/консультанты)](https://dedov.ws/sdacha-ploshhadej-v-arendu-sobstvennye-brokery-konsultanty);
 * [Редевелопмент](https://dedov.ws/redevelopment-kommercheskoj-nedvizhimosti);
