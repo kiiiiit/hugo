@@ -1,4 +1,6 @@
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+defaultMarkdownHandler: pandoc
+
 highlight:
   noClasses: false
   # anchorLineNos: true
@@ -12,3 +14,9 @@ highlight:
   lineNumbersInTable: true
   noHl: false
   tabWidth: 4
+
+# goldmark:
+#   parser:
+#     wrapStandAloneImageWithinParagraph: false
+#     attribute:
+#       block: true

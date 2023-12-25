@@ -1,5 +1,5 @@
 baseURL: "https://hugo.dedov.ws/"
-# paginate: 5
+paginate: 10
 theme: PaperMod
 
 languageCode: ru
@@ -15,7 +15,32 @@ enableEmoji: true
 # canonifyURLs: true
 # relativeURLs: true
 
-googleAnalytics: UA-123-45
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+      - ^dart-sass-embedded$
+      - ^go$
+      - ^npx$
+      - ^postcss$
+      - ^pandoc$
+      - ^nvim$
+    osEnv:
+      - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+  funcs:
+    getenv:
+      - ^HUGO_
+  http:
+    methods:
+      - (?i)GET|POST
+    urls:
+      - .*
+
+services:
+  googleAnalytics:
+    ID: UA-52691292-1
+# disqus:
+#   shortname: SergeyDedov
 
 minify:
   disableXML: true
@@ -42,10 +67,6 @@ taxonomies:
 # staticDir:
 #   - static
 #   - static/images
-
-# services:
-#   disqus:
-#     shortname: SergeyDedov
 
 outputs:
   home:

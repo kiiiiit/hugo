@@ -16,7 +16,7 @@ main:
   #   pageRef: /categories/статья/
   #   weight: 10
   - identifier: page
-    name: Статьи
+    name: Наука
     pageRef: /articles
     weight: 11
   # - identifier: tags
