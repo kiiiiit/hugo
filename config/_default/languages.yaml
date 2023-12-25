@@ -20,6 +20,8 @@ ru:
           url: posts
         - name: Темы
           url: tags
+        # - name: Поиск
+        #   url: /search
         # - name: Архив
         #   url: archives
 ### English
@@ -45,3 +47,5 @@ en:
           url: posts
         - name: Tags
           url: tags
+        # - name: Archive
+        #   url: archives
