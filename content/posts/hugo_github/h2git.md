@@ -48,7 +48,7 @@ cd <репозиторий>
 Открываем терминал и пишем:
 ```bash
 
-hugo new site quickstart # создаем стуктуру сайта [quickstart]
+hugo new site quickstart --format yaml # создаем стуктуру сайта [quickstart]
 
 cd quickstart # смена каталога на сайт
 

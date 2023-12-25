@@ -1,7 +1,7 @@
 ru:
   title: Сергей ДЕДОВ
   # contentDir: content/post/ru
-  disabled: false
+  # disabled: true
   languageCode: ru-Ru
   languageName: Русский
   weight: 1
@@ -20,11 +20,13 @@ ru:
           url: posts
         - name: Темы
           url: tags
+        # - name: Архив
+        #   url: archives
 ### English
 en:
   title: Sergey DEDOV
   # contentDir: content/post/en
-  disabled: false
+  # disabled: true
   languageCode: en-US
   languageName: English
   weight: 2
@@ -34,7 +36,7 @@ en:
       enabled: true # needs to be explicitly set
       title: Sergey DEDOV
       subtitle: Growing a business
-      imageUrl: "../assets/media/icon.png"
+      imageUrl: ../assets/media/icon.png
       imageWidth: 200
       imageHeight: 200
       imageTitle: my image

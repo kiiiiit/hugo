@@ -6,19 +6,27 @@ main:
   - identifier: collab
     name: Сотрудничество
     pageRef: /collab
-    weight: 3
-  - identifier: posts
-    name: Новости
-    pageRef: /posts
     weight: 2
-  - identifier: categories
+  # - identifier: posts
+  #   name: Новости
+  #   pageRef: /posts
+  #   weight: 3
+  # - identifier: categories
+  #   name: Статьи
+  #   pageRef: /categories/статья/
+  #   weight: 10
+  - identifier: page
     name: Статьи
-    pageRef: /categories/статья/
-    weight: 10
-  - identifier: tags
-    name: Темы
-    pageRef: /tags
-    weight: 20
+    pageRef: /articles
+    weight: 11
+  # - identifier: tags
+  #   name: Темы
+  #   pageRef: /tags
+  #   weight: 20
+  - identifier: CV
+    name: Резюме
+    pageRef: /CV/cv
+    weight: 30
   # - name: Hugo
   #   rel: external
   #   # pre: <i class="fa fa-heart"></i>

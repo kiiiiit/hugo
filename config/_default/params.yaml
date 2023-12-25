@@ -1,8 +1,8 @@
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
-footer: Copyright © 2000-2023 by [Sergey DEDOV](https://dedov.ws)
+copyright: Copyright © 2000-2023 by [Sergey DEDOV](https://dedov.ws)
 title: Sergey DEDOV Personal site
-description: "ExampleSite description"
-keywords: [Blog, Portfolio, PaperMod]
+description: Sergey DEDOV Personal site
+keywords: [управление проектами, строительство, планирование, организация, контроль, сроки, бюджет, качество]
 # copyright: \@ Sergey DEDOV, 2023
 # author: ["Me", "You"] # multiple authors
 images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -11,6 +11,11 @@ defaultTheme: auto # dark, light
 disableThemeToggle: false
 ShowReadingTime: true
 ShowShareButtons: true
+ShareButtons:
+  - linkedin
+  - telegram
+  - whatsapp
+  - facebook
 ShowPostNavLinks: true
 ShowBreadCrumbs: true
 ShowCodeCopyButtons: true
@@ -29,7 +34,7 @@ assets:
   favicon: true
   # disableHLJS: true # to disable highlight.js
   # disableFingerprinting: true
-  favicon: assets/media/icon.png
+  favicon: icon.png
   # favicon16x16: "<link / abs url>"
   # favicon32x32: "<link / abs url>"
   # apple_touch_icon: "<link / abs url>"
@@ -41,14 +46,18 @@ homeInfoParams:
   Content: Добро пожаловать!!!
 
 socialIcons:
+  # - name: CV
+  #   url: /CV/
+  - name: telegram
+    url: https://t.me/kiiit
   - name: phone
-    url: "tel:+79999000000"
+    url: tel:+79999000000
   - name: email
-    url: "mailto:sergey@dedov.ws"
+    url: mailto:sergey@dedov.ws
   - name: facebook
-    url: "https://www.facebook.com/Dedov.Sergey/"
+    url: https://www.facebook.com/Dedov.Sergey/
   - name: LinkedIn
-    url: "https://www.linkedin.com/in/dedovsergey/"
+    url: https://www.linkedin.com/in/dedovsergey/
 
 analytics:
   google:
@@ -60,8 +69,12 @@ analytics:
 
 cover:
   hidden: false # hide everywhere but not in structured data
-  hiddenInList: true # hide on list pages and home
-  hiddenInSingle: true # hide on single page
+  # hiddenInList: true # hide on list pages and home
+  # hiddenInSingle: true # hide on single page
+  linkFullImages: true
+
+schema:
+  publisherType: Organization
 
 # editPost:
 #   URL: "https://hugo.dedov.ws/content"

@@ -3,18 +3,26 @@ main:
     name: Home
     pageRef: /
     weight: 1
-  - identifier: posts
-    name: Posts
-    pageRef: /posts
+  - identifier: collab
+    name: Collaborations
+    pageRef: /collab
     weight: 2
-  - identifier: categories
-    name: Categories
-    pageRef: /categories
+  # - identifier: posts
+  #   name: Posts
+  #   pageRef: /posts
+  #   weight: 5
+  - identifier: pages
+    name: Articles
+    pageRef: /articles
     weight: 10
-  - identifier: tags
-    name: Tags
-    pageRef: /tags
-    weight: 20
+  # - identifier: tags
+  #   name: Tags
+  #   pageRef: /tags
+  #   weight: 20
+  - identifier: CV
+    name: CV
+    pageRef: /CV/cv
+    weight: 30
   # - name: Hugo
   #   rel: external
   #   # pre: <i class="fa fa-heart"></i>
