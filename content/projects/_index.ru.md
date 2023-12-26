@@ -1,5 +1,5 @@
 ---
-title: Предложение о сотрудничестве
+title: Проекты
 description:
 tags:
 - FM

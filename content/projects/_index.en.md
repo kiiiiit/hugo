@@ -1,5 +1,5 @@
 ---
-title: Cooperation Proposal
+title: Projects
 description:
 tags:
 - FM

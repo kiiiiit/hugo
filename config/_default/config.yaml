@@ -7,7 +7,7 @@ defaultContentLanguage: ru
 # defaultContentLanguageInSubdir: true
 
 diagram: true
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
