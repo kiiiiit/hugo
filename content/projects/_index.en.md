@@ -12,4 +12,11 @@ summary:
 categories:
 ---
 
-I propose cooperation in the implementation of projects in the field of construction, operation of commercial real estate, and business management.Since the establishment of the Real Estate business in Russia, I have gone through all stages of project implementation ranging from 100 to 150,000 sq.m. in many cities of the country: Moscow, St. Petersburg, Tyumen
+## MIK Participant
+
+[![MIK Website Profile](/logo-mik-2-1.png)](https://i.moscow/company/51315018/services)
+
+>**Schedule a meeting:**
+>[Email](mailto:site@dedov.ws)
+
+## Briefly about some of the realized projects:
