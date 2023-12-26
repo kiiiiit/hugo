@@ -6,7 +6,11 @@ main:
   - identifier: collab
     name: Сотрудничество
     pageRef: /collab
-    weight: 2
+    weight: 3
+  - identifier: projects
+    name: Проекты
+    pageRef: /projects
+    weight: 5
   # - identifier: posts
   #   name: Новости
   #   pageRef: /posts

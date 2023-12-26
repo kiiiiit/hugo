@@ -7,6 +7,10 @@ main:
     name: Collaborations
     pageRef: /collab
     weight: 2
+  - identifier: projects
+    name: Projects
+    pageRef: /projects
+    weight: 5
   # - identifier: posts
   #   name: Posts
   #   pageRef: /posts
