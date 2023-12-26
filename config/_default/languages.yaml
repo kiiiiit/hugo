@@ -14,7 +14,7 @@ ru:
       imageUrl: /icon2.webp
       imageWidth: 300
       imageHeight: 300
-      imageTitle: my image
+      imageTitle: Ум | Знания | Опыт
       buttons:
         - name: Блог
           url: posts
@@ -41,7 +41,7 @@ en:
       imageUrl: /icon2.webp
       imageWidth: 300
       imageHeight: 300
-      imageTitle: my image
+      imageTitle: Mind | Knowledge | Experience
       buttons:
         - name: Posts
           url: posts
