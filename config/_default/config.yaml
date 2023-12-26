@@ -18,8 +18,8 @@ enableEmoji: true
 services:
   googleAnalytics:
     ID: UA-52691292-1
-# disqus:
-#   shortname: SergeyDedov
+  disqus:
+    shortname: SergeyDedov
 
 minify:
   disableXML: true

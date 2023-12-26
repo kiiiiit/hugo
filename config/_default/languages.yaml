@@ -11,7 +11,7 @@ ru:
       enabled: true # needs to be explicitly set
       title: Сергей ДЕДОВ
       subtitle: Взращивая бизнес
-      imageUrl: ../assets/media/icon.png
+      imageUrl: /icon.webp
       imageWidth: 300
       imageHeight: 300
       imageTitle: my image
@@ -38,7 +38,7 @@ en:
       enabled: true # needs to be explicitly set
       title: Sergey DEDOV
       subtitle: Growing a business
-      imageUrl: ../assets/media/icon.png
+      imageUrl: /icon.webp
       imageWidth: 300
       imageHeight: 300
       imageTitle: my image
