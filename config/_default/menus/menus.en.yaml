@@ -22,7 +22,11 @@ main:
   - identifier: CV
     name: CV
     pageRef: /CV/cv
-    weight: 30
+    weight: 50
+  - identifier: search
+    name: Search
+    url: /search
+    weight: 40
   # - name: Hugo
   #   rel: external
   #   # pre: <i class="fa fa-heart"></i>

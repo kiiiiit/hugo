@@ -26,7 +26,11 @@ main:
   - identifier: CV
     name: Резюме
     pageRef: /CV/cv
-    weight: 30
+    weight: 50
+  - identifier: search
+    name: Поиск
+    url: /search
+    weight: 40
   # - name: Hugo
   #   rel: external
   #   # pre: <i class="fa fa-heart"></i>

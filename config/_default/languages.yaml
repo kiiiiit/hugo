@@ -20,10 +20,10 @@ ru:
           url: posts
         - name: Темы
           url: tags
-        - name: Поиск
-          url: /search
         - name: Архив
           url: archives
+      # - name: Поиск
+      #   url: /search
 ### English
 en:
   title: Sergey DEDOV
@@ -47,7 +47,7 @@ en:
           url: posts
         - name: Tags
           url: tags
-        - name: Search
-          url: search
         - name: Archive
           url: archives
+        # - name: Search
+        #   url: search
