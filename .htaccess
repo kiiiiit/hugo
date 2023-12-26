@@ -1,0 +1,48 @@
+//Пример фрагмента .htaccess (из плагина FastestCache) для решения ошибки "Задайте правила эффективного использования кеша для статических объектов" в PageSpeed
+//это просто пример! не копируйте его на свой сайт!
+//в данном примере задано время кеширования 1 Год
+// обычно это даёт + 2-4 балла по PageSpeed
+//© Калинский Евгений aka seojacky (https://t.me/big_jacky)
+//По вопросам оптимизации сайтов по требованиям PageSpeed пишите в Telegram https://t.me/big_jacky
+
+/*
+* Мои плагины для ускорения сайта:
+* True Lazy Analytics https://wordpress.org/plugins/true-lazy-analytics/
+* Helper Lite for PageSpeed https://wordpress.org/plugins/helper-lite-for-pagespeed/
+*/
+
+# BEGIN LBCWpFastestCache
+<FilesMatch "\.(webm|ogg|mp4|ico|pdf|flv|jpg|jpeg|png|gif|webp|js|css|swf|x-html|css|xml|js|woff|woff2|otf|ttf|svg|eot)(\.gz)?$">
+<IfModule mod_expires.c>
+AddType application/font-woff2 .woff2
+AddType application/x-font-opentype .otf
+ExpiresActive On
+ExpiresDefault A0
+ExpiresByType video/webm "access plus 1 year"
+ExpiresByType video/ogg "access plus 1 year"
+ExpiresByType video/mp4 "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/jpg "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/ico "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType text/javascript "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+ExpiresByType application/x-javascript "access plus 1 year"
+ExpiresByType application/font-woff2 "access plus 1 year"
+ExpiresByType application/x-font-opentype "access plus 1 year"
+ExpiresByType application/x-font-truetype "access plus 1 year"
+ExpiresByType application/pdf       "access plus 1 year"
+</IfModule>
+<IfModule mod_headers.c>
+Header set Expires "max-age=A10368000, public"
+Header unset ETag
+Header set Connection keep-alive
+FileETag None
+</IfModule>
+</FilesMatch>
+# END LBCWpFastestCache
