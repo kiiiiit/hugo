@@ -12,18 +12,18 @@ ru:
       title: Сергей ДЕДОВ
       subtitle: Взращивая бизнес
       imageUrl: ../assets/media/icon.png
-      imageWidth: 200
-      imageHeight: 200
+      imageWidth: 300
+      imageHeight: 300
       imageTitle: my image
       buttons:
         - name: Блог
           url: posts
         - name: Темы
           url: tags
-        # - name: Поиск
-        #   url: /search
-        # - name: Архив
-        #   url: archives
+        - name: Поиск
+          url: /search
+        - name: Архив
+          url: archives
 ### English
 en:
   title: Sergey DEDOV
@@ -39,13 +39,15 @@ en:
       title: Sergey DEDOV
       subtitle: Growing a business
       imageUrl: ../assets/media/icon.png
-      imageWidth: 200
-      imageHeight: 200
+      imageWidth: 300
+      imageHeight: 300
       imageTitle: my image
       buttons:
         - name: Posts
           url: posts
         - name: Tags
           url: tags
-        # - name: Archive
-        #   url: archives
+        - name: Search
+          url: search
+        - name: Archive
+          url: archives

@@ -1,7 +1,7 @@
 ---
-date: '{{ .Date }}'
+date: '2023-12-26T11:26:29+03:00'
 draft: true
-title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
+title: 'Test'
 author: Сергей ДЕДОВ
 description:
 tags:
