@@ -1,6 +1,6 @@
 ---
 date: '2023-12-30T11:51:46+03:00'
-draft: true
+draft: false
 title: 'Happy NY2024'
 author: Сергей ДЕДОВ
 description:
